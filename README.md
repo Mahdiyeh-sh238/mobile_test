@@ -1,4 +1,2 @@
 # mobile_test
-test
-
-test2
+test8888
